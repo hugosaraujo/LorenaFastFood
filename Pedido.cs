@@ -10,7 +10,7 @@ namespace LorenaFastFood
     {
         public int numeroDoPedido;
         public double valorTotalPedido;
-        public Cliente cliete;
+        public Cliente cliente;
         public ItemPedido item;
     }
 }
